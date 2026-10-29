@@ -1,11 +1,9 @@
 BSD 2-Clause License
 
 Copyright (c) 2026, Luke Archer
+Copyright (c) 2018, Morgan Lewis <https://github.com/MESLewis>
+Copyright (c) 2018, Magic fTail
 All rights reserved.
-
-Teleport locations and map icons are adapted from the RuneLite World Map
-plugin, which is also BSD 2-Clause licensed (see the header in
-TeleportLocationData.java for its copyright notice).
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
