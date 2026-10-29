@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 2026, Luke Archer
+ * Copyright (c) 2018, Morgan Lewis <https://github.com/MESLewis>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
