@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 2026, Luke Archer
+ * Copyright (c) 2018, Magic fTail
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
